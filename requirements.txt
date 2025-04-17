@@ -11,3 +11,4 @@ pyttsx3
 langchain
 langchain-community
 pymupdf
+langchain-huggingface
