@@ -8,3 +8,4 @@ langchain-mistralai
 faiss-cpu
 PyMuPDF
 pypdf
+pyaudio
