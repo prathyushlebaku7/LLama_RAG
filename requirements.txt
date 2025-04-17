@@ -8,3 +8,6 @@ PyPDF2
 SpeechRecognition
 gTTS
 pyttsx3
+langchain
+langchain-community
+pymupdf
