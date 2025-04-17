@@ -8,4 +8,4 @@ langchain-mistralai
 faiss-cpu
 PyMuPDF
 pypdf
-pyaudio
+pyaudio==0.2.14
