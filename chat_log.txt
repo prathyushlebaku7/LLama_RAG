@@ -1,0 +1,154 @@
+
+
+[2025-04-17 10:44:08.651683]
+Q: hello how are you doing
+A: I'm functioning as intended, thank you. How can I assist you today?
+
+
+[2025-04-17 10:47:56.026841]
+Q: can you hear me
+A: I'm an AI and don't have the ability to hear. I can only process and generate text. How can I assist you today?
+
+
+[2025-04-17 10:48:55.251327]
+Q: what is the document about
+A: The document is about a person named Sachin Veeramalla, detailing his professional experience, education, and contact information. It highlights his work in software development and cloud services, including his use of AWS technologies, Agile methodologies, and contributions to various projects. It also lists his educational background, including his current pursuit of a Master of Science in Computer Science at the University of Houston and his previous degree from GITAM University in Hyderabad.
+
+
+[2025-04-17 10:55:58.181466]
+Q: what's the weather in Houston
+A: I don't know.
+
+
+[2025-04-17 10:56:51.207939]
+Q: can you tell me what is inside the document
+A: The document contains information about an individual named Sachin Veeramalla, including:
+
+1. **Contact Information**:
+   - Phone number: 818-792-1284
+   - Email: sachinveeramalla@gmail.com
+   - LinkedIn: linkedin.com/in/SachinVeeramalla
+   - GitHub: github.com/SachinVeeramalla
+
+2. **Education**:
+   - **University of Houston, Main Campus**:
+     - Master of Science in Computer Science (August 2023 – May 2025)
+     - GPA: 3.6 / 4.0
+     - Coursework: Software Design, Cloud Computing, Visualization, Computer Architecture
+   - **GITAM University, Hyderabad**:
+     - Bachelor of Technology in Computer Science and Engineering (June 2019 – April 2023)
+     - GPA: 9.12/10
+     - Coursework: Data Structures and Algorithms, Machine Learning, Artificial Intelligence
+
+3. **Technical Skills**:
+   - **Languages**: Python, Java, C
+   - **Web Technologies**: HTML5, CSS3, JavaScript, ReactJS, Node.js, Next.js, Typescript
+   - **Database**: SQL, MySQL, Oracle, PostgreSQL, Dynamo DB
+   - **Cloud Technologies**: AWS
+   - **Methodologies**: Agile, Scrum
+   - **Developer Tools**: Visual Studio Code, StarUML, Git
+   - **Libraries**: Tensorflow, OpenCV, Keras, PyTorch
+
+4. **Experience**:
+   - Worked on a project involving AWS services like Cognito & Amplify for authentication/hosting, DynamoDB & S3 for data/media storage, and AWS Lambda, API Gateway, and RESTful APIs for microservices.
+   - Improved team efficiency by 35% through code reviews, debugging, and Agile methodologies using Git and Jira, and expanded template offerings by over 50%.
+   - Developed a Cloud-based Applicant Tracking System (January 2024 – May 2024).
+
+
+[2025-04-17 10:58:24.469474]
+Q: can you hear me
+A: I don't know.
+
+
+[2025-04-17 11:11:42.277522]
+Q: so can you hear me
+A: I don't know.
+
+
+[2025-04-17 11:11:48.172767]
+Q: I don't know
+A: I don't know.
+
+
+[2025-04-17 11:11:59.132112]
+Q: so basically if that if the answer is anything else I don't know it is taking as an
+A: No, "I don't know" is not being taken as an affirmation. It is being used as a directive to respond with "I don't know" when the answer is not provided in the context.
+
+
+[2025-04-17 11:17:42.371736]
+Q: can you hear me
+A: I don't know.
+
+
+[2025-04-17 11:17:49.053239]
+Q: can you hear me now
+A: No.
+
+
+[2025-04-17 11:18:00.405035]
+Q: can you summarize the things what is what's in the document
+A: The document contains information about an individual named Prathyush Kumar Reddy Lebaku. It includes details about his education, skills, and a specific project he worked on. Here are the key points:
+
+1. **Education**:
+   - **University of Houston**: Prathyush is pursuing a Master of Science in Engineering Data Science with a CGPA of 3.89/4.0 from August 2023 to May 2025. His coursework includes Deep Learning, Data Structures and Algorithms, Advanced Machine Learning, Probability and Statistics, Computer Vision, Natural Language Processing, Big Data Processing, Artificial Intelligence, Data Analysis, and Object-oriented programming.
+   - **Vellore Institute of Technology**: No specific details are provided about his education here.
+
+2. **Contact Information**:
+   - Phone: +1 713-873-1975
+   - Location: Houston, TX
+   - Email: plebaku@cougarnet.uh.edu
+   - LinkedIn, GitHub, and Portfolio links are mentioned but not specified.
+
+3. **Summary**:
+   - Prathyush has experience as a Data Analyst and AI Engineer with a strong understanding of deep learning models and large language models (LLMs). He has a keen interest in data extraction, preprocessing, and deploying intelligent solutions for real-world applications.
+
+4. **Project**:
+   - **Context-Aware Question Answering System Using LLMs**: From May 2024 to July 2024, Prathyush fine-tuned BERT Base and BiDAF models on the SQuAD v2.0 dataset to build a question-answering system. The BERT model outperformed BiDAF, achieving an Exact Match (EM) score of 60% and an F1 score of 64%. He deployed the fine-tuned BERT model as an interactive web application using Flask, enabling real-time question-answering.
+
+
+[2025-04-17 11:18:16.832146]
+Q: can you summarize the document
+A: The document describes two projects and a professional profile:
+
+1. **Multi-Agentic Retrieval-Augmented Generation (RAG) System**:
+   - Developed using AutoGen, with agents for retrieval, context analysis, generation, evaluation, and query refinement.
+   - Utilized HuggingFace embeddings and ChromaDB for context retrieval from document datasets.
+   - Implemented a dynamic state transition mechanism for adaptive agent workflows based on evaluation feedback.
+
+2. **Context-Aware Question Answering System Using LLMs**:
+   - Fine-tuned BERT Base and BiDAF models on the SQuAD v2.0 dataset.
+   - BERT model achieved an Exact Match (EM) score of 60% and an F1 score of 64%.
+   - Deployed the fine-tuned BERT model as an interactive web application using Flask.
+
+3. **Professional Profile**:
+   - **Name**: Prathyush Kumar Reddy Lebaku
+   - **Contact**: +1 713-873-1975, Houston, TX, plebaku@cougarnet.uh.edu
+   - **Roles**: Data Scientist, Data Engineer, AI Engineer, Data Analyst
+   - **Education**: University of Houston, Houston, TX
+   - **Skills**: Deep learning models, large language models (LLMs), data extraction, preprocessing, deploying intelligent solutions.
+
+
+[2025-04-17 11:20:30.306162]
+Q: can you summarize the document in two l
+A: The document describes two main projects:
+
+1. **Multi-Agentic Retrieval-Augmented Generation (RAG) System**:
+   - Developed using AutoGen, with agents for retrieval, context analysis, generation, evaluation, and query refinement.
+   - Utilized HuggingFace embeddings and ChromaDB for context retrieval from document datasets.
+   - Implemented a dynamic state transition mechanism for adaptive agent workflows.
+
+2. **Context-Aware Question Answering System Using LLMs**:
+   - Fine-tuned BERT Base and BiDAF models on the SQuAD v2.0 dataset.
+   - BERT model achieved an Exact Match (EM) score of 60% and an F1 score of 64%.
+   - Deployed the fine-tuned BERT model as an interactive web application using Flask.
+
+
+[2025-04-17 11:21:46.396187]
+Q: but now it is working
+A: Based on the provided context, the following projects are currently working:
+
+1. **Interactive UI for Real-Time Query Answering**: Built using Streamlit, this UI enables real-time query answering with refinement loops and response scoring.
+
+2. **Context-Aware Question Answering System**: Deployed using Flask, this system uses a fine-tuned BERT model to provide real-time question-answering capabilities.
+
+3. **Visual Question Answering (VQA) System**: This system uses LLaMA-1.5v-13b for question answering, YOLO World for object detection, and MiDaS for depth estimation to answer questions about objects within 15 feet.
