@@ -1,0 +1,10 @@
+streamlit
+langchain
+faiss-cpu
+openai
+huggingface_hub
+sentence-transformers
+PyPDF2
+SpeechRecognition
+gTTS
+pyttsx3
