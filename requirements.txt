@@ -1,27 +1,16 @@
-# LangChain and HuggingFace
+streamlit==1.33.0
 langchain==0.1.13
 langchain-community==0.0.28
 langchain-core==0.1.35
 langchain-huggingface==0.0.2
 langchain-mistralai==0.0.4
-
-# Vector DB
 faiss-cpu==1.7.4
-
-# Transformers & Embeddings
 transformers==4.40.1
 sentence-transformers==2.2.2
 huggingface-hub==0.22.2
-
-# PDF Handling
 PyMuPDF==1.23.17
 pdfplumber==0.10.4
 pypdf==3.17.4
-
-# Streamlit UI
-streamlit==1.33.0
-
-# Utilities
 numpy==1.26.4
 pandas==2.2.2
 tqdm==4.66.2
